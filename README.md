@@ -1,3 +1,3 @@
 # dotdotdot
 
-n -s /Users/ahmet/dotdotdot/.bash_prompt ~/.bash_prompt
+ln -s /Users/ahmet/dotdotdot/.bash_prompt ~/.bash_prompt
